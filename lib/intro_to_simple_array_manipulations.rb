@@ -1,9 +1,9 @@
 def using_push(array,str)
-  
+  array.push(str)
 end
 
 def using_unshift(array,str)
-  
+  array.unshift(str)
 end
 
 def using_pop(array)
@@ -26,4 +26,14 @@ def using_insert(array,element)
   
 end
 
-def using_flatten()
+def using_flatten(array)
+  
+end
+
+def using_delete(array,str)
+  
+end
+
+def using_delete_at(array,index)
+  
+end
